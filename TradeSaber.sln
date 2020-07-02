@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeSaber", "TradeSaber\TradeSaber.csproj", "{FCBAB04D-6EE8-4BE0-B2D4-DD0E773F2F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBAB04D-6EE8-4BE0-B2D4-DD0E773F2F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBAB04D-6EE8-4BE0-B2D4-DD0E773F2F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBAB04D-6EE8-4BE0-B2D4-DD0E773F2F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBAB04D-6EE8-4BE0-B2D4-DD0E773F2F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642205D1-C6EF-4234-A99D-F36CFEB439E7}
+	EndGlobalSection
+EndGlobal
